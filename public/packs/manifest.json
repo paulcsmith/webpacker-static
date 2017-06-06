@@ -1,4 +1,4 @@
 {
-  "application.js": "/packs/application.js",
-  "test/tester/meme.jpg": "/packs/test/tester/meme.jpg"
+  "application.css": "/packs/application.css",
+  "application.js": "/packs/application.js"
 }
