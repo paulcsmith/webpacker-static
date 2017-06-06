@@ -1,7 +1,8 @@
 {
   "application.css": "/packs/application.css",
   "application.js": "/packs/application.js",
-  "dup-images/meme.jpg": "/packs/dup-images/meme.jpg",
-  "images/meme.jpg": "/packs/images/meme.jpg",
+  "dup-images/meme.jpg": "/packs/dup-images//meme.jpg",
+  "images/meme.jpg": "/packs/images//meme.jpg",
+  "images/nested/meme.jpg": "/packs/images/nested//meme.jpg",
   "nested/meme.jpg": "/packs/nested/meme.jpg"
 }
