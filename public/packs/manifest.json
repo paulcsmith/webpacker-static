@@ -1,4 +1,6 @@
 {
   "application.css": "/packs/application.css",
-  "application.js": "/packs/application.js"
+  "application.js": "/packs/application.js",
+  "dup-images/meme.jpg": "/packs/dup-images/meme.jpg",
+  "images/meme.jpg": "/packs/images/meme.jpg"
 }

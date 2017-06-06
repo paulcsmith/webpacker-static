@@ -11,5 +11,5 @@ console.log('Hello World from Webpacker')
 require("../app.scss")
 
 // import 'stuff'
-// require.context("../images", false, /jpg/)
-// require.context("../dup-images", false, /jpg/)
+require.context("../images", false, /jpg/)
+require.context("../dup-images", false, /jpg/)
