@@ -8,7 +8,7 @@ module.exports = {
       publicPath,
       context: 'app/javascript',
       emitFiles: true,
-      name: env.NODE_ENV === 'production' ? '[path]/[name]-[hash].[ext]' : '[path]/[name].[ext]'
+      name: env.NODE_ENV === 'production' ? '[path]/[name]-[hash].[ext]' : '[path][name].[ext]'
     }
   }]
 }
