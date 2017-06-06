@@ -12,4 +12,5 @@ require("../app.scss")
 
 // import 'stuff'
 require.context("../images", false, /jpg/)
+require("../images/nested/meme.jpg")
 require.context("../dup-images", false, /jpg/)
